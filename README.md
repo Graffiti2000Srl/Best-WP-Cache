@@ -1,2 +1,2 @@
-Best-WP-Cache
+Best WP Cache
 =============
